@@ -1,5 +1,0 @@
-package scala
-
-object StringType {
-
-}
